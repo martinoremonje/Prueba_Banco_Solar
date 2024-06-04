@@ -49,7 +49,7 @@ Para realizar una transferencia, selecciona al emisor y al receptor en los campo
 Para editar un usuario, haz clic en el botón "Editar" en la fila correspondiente en la tabla de usuarios. Se abrirá un modal con los campos de nombre y balance actuales del usuario. Ingresa los nuevos valores y haz clic en el botón "Editar" para guardar los cambios.
 
 #### Eliminar un usuario
-Para eliminar un usuario, haz clic en el botón "Eliminar" en la fila correspondiente en la tabla de usuarios. Se te pedirá que confirmes la acción. Haz clic en "Aceptar" para eliminar al usuario y todas sus transferencias asociadas.
+Para eliminar un usuario, haz clic en el botón "Eliminar" en la fila correspondiente en la tabla de usuarios. 
 
 ## Consideraciones adicionales
 - La aplicación utiliza una transacción SQL en la consulta a la base de datos para garantizar la integridad de los datos al realizar una transferencia.
