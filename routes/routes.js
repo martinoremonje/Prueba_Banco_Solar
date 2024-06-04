@@ -11,7 +11,7 @@ router.get("/usuarios", showUsers);
 
 router.get("/transferencias", showTransfers);
 
-router.post("transferencia", transfer);
+router.post("/transferencia", transfer);
 
 router.put("/usuario", editUser);
 
